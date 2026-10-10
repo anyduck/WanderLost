@@ -3,19 +3,9 @@
     "Name": "NA East",
     "TimeZone": "America/New_York",
     "Servers": [
-      "Balthorr",
       "Inanna",
-      "Luterra",
-      "Nineveh",
+      "Thaemine",
       "Vairgrys"
-    ]
-  },
-  "NAW": {
-    "Name": "NA West",
-    "TimeZone": "America/Los_Angeles",
-    "Servers": [
-      "Brelshaza",
-      "Thaemine"
     ]
   },
   "EUC": {
@@ -23,10 +13,7 @@
     "TimeZone": "Europe/Warsaw",
     "Servers": [
       "Arcturus",
-      "Elpon",
-      "Gienah",
-      "Ortuus",
-      "Ratik"
+      "Elpon"
     ]
   }
 }
